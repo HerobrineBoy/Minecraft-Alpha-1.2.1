@@ -6,4 +6,6 @@ prerelease 4: NRCoolDude joined the development!
 prerelease 3: the goddamn website still not fixed
 prerelease 2: retried refreshing the website but didnt work at all
 Prerelease 1: added website, but doesnt load so we have to do all over again
-Prerelease: first release, didnt add anything yet and game is still unavailable to public
+Prerelease: third release, didnt add anything yet and game is still unavailable to public
+Test release pre-alpha 2: tried to boot the game
+Test Release Pre-Beta 1: added nothing
