@@ -1,0 +1,9 @@
+changelog
+prerelease 7: added the downloads.exe
+prerelease 6: planned a discord server dedicaded to this
+prerelease 5: planned a custom server
+prerelease 4: NRCoolDude joined the development!
+prerelease 3: the goddamn website still not fixed
+prerelease 2: retried refreshing the website but didnt work at all
+Prerelease 1: added website, but doesnt load so we have to do all over again
+Prerelease: first release, didnt add anything yet and game is still unavailable to public
